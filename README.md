@@ -75,4 +75,3 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<p align="center">🌍 Thanks for visiting my cosmic corner of GitHub! May your code be bug-free and your commits always push successfully! 🚀</p>
