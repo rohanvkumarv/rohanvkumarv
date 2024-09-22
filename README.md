@@ -97,19 +97,4 @@ Greetings, fellow explorer of the digital universe! I'm Rohan, a Full Stack Deve
   </tr>
 </table>
 
-## 📊 Stellar Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohanvkumarv&show_icons=true&theme=dark" alt="Rohan's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rohanvkumarv&theme=dark" alt="Rohan's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvkumarv&layout=compact&theme=dark" alt="Rohan's Top Languages" />
-</p>
-
-## 🌠 Recent Cosmic Activity
-
-![Rohan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanvkumarv&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
-
 <p align="center">🌍 Thanks for visiting my cosmic corner of GitHub! May your code be bug-free and your commits always push successfully! 🚀</p>
