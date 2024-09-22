@@ -14,33 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there%2C+I'm+Rohan+%F0%9F%91%8B;Full+Stack+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" /></a>
-</h1>
 
-<p align="center">
-  <a href="https://github.com/rohanvkumarv?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rohanvkumarv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/rohanvkumarv?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rohanvkumarv?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</p>
 
 ---
 
-## 🚀 About Me
-
-Greetings, fellow explorer of the digital universe! I'm Rohan, a Full Stack Developer on a mission to unravel the mysteries of programming. With a passion for technology and innovation, I'm constantly pushing the boundaries of what's possible in the world of code.
-
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[What You're Learning]**
-- 👯 I'm looking to collaborate on **[Areas of Interest]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[Your Email or Preferred Contact Method]**
-- ⚡ Fun fact: **[An Interesting Fact About You]**
-
-## 🛠️ My Toolkit of Galactic Technologies
+## 🚀 My Tech Stack
 
 <table>
   <tr>
