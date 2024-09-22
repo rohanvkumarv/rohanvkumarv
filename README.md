@@ -15,93 +15,91 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%" height="300" alt="Space-themed header">
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Rohan+V+Kumar+here...;Full+Stack+Developer!&center=true&size=27&width=550">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFB3&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Rohan;Exploring+the+Digital+Universe" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohanvkumarv&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rohanvkumarv" />
-  <a href="https://github.com/rohanvkumarv?tab=followers">
-    <img src="https://img.shields.io/github/followers/rohanvkumarv?label=Followers&style=for-the-badge" alt="GitHub Badge">
+  <a href="https://github.com/rohanvkumarv">
+    <img src="https://img.shields.io/github/followers/rohanvkumarv?label=Followers&logo=GitHub&style=for-the-badge&labelColor=181825&color=010300" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rohanvkumarv&style=for-the-badge&color=00FFB3&labelColor=181825" alt="Profile views" />
+</p>
+
+<br>
+
+<h2 align="center">🚀 Technological Constellations 🚀</h2>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" alt="JavaScript">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" alt="React">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100" alt="Node.js">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" alt="Python">
+  <img src="https://i.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="100" alt="Gitlab">
+</p>
+
+<br>
+
+<h2 align="center">🌌 Cosmic Contributions 🌌</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanvkumarv&theme=radical&hide_border=true&background=000000&stroke=00FFB3&fire=00FFB3&currStreakNum=00FFB3&ring=00FFFF&currStreakLabel=00FFFF&sideNums=00FFB3&sideLabels=00FFFF" alt="GitHub Streak" />
+</p>
+
+<h2 align="center">🌠 Galactic Metrics 🌠</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanvkumarv&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF" height="165" alt="rohanvkumarv's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvkumarv&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=00FFB3&text_color=FFFFFF" height="165" alt="Top Langs" />
+</div>
+
+<br>
+
+<h2 align="center">🛸 Interstellar Activity 🛸</h2>
+
+[![rohanvkumarv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanvkumarv&theme=react-dark&bg_color=000000&color=00FFB3&line=00FFFF&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<h2 align="center">🏆 Intergalactic Trophies 🏆</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohanvkumarv&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="rohanvkumarv's GitHub Trophy" />
+</p>
+
+<br>
+
+<h2 align="center">🌍 Earth Contact 🌍</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rohanvkumarv" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181825" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/rohanvkumarv" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=181825" alt="Twitter">
+  </a>
+  <a href="https://rohanvkumarv.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-%23FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=181825" alt="Portfolio">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanvkumarv&theme=github_dark" alt="rohanvkumarv's GitHub Stats" />
-</p>
+<br>
 
-## 🚀 Tech Arsenal
+<div align="center">
+  <img src="https://media.giphy.com/media/3ov9jQX2Ow4bM5xxuM/giphy.gif" width="100%" height="200" alt="Space-themed footer">
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
-</p>
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanvkumarv&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=FFFFFF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanvkumarv&show_icons=true&theme=github_dark&hide_border=true" width="400" alt="rohanvkumarv's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvkumarv&layout=compact&theme=github_dark&hide_border=true" width="400" alt="rohanvkumarv's Top Languages" />
-</p>
-
-## 🌟 Contribution Graph
-
-[![rohanvkumarv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanvkumarv&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanvkumarv&theme=darkhub&no-frame=true&row=1&column=7" alt="rohanvkumarv's GitHub Trophy" />
-</p>
-
-## 📈 Coding Habits
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohanvkumarv&layout=compact&theme=github_dark&hide_border=true" alt="rohanvkumarv's WakaTime stats" />
-</p>
-
-<details>
-  <summary>🌟 Featured Projects</summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/rohanvkumarv/project1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanvkumarv&repo=project1&theme=github_dark&hide_border=true" alt="Project 1" />
-    </a>
-    <a href="https://github.com/rohanvkumarv/project2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanvkumarv&repo=project2&theme=github_dark&hide_border=true" alt="Project 2" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/rohanvkumarv/repo/pull/123) in [rohanvkumarv/repo](https://github.com/rohanvkumarv/repo)
-2. 💪 Opened PR [#456](https://github.com/rohanvkumarv/repo/pull/456) in [rohanvkumarv/repo](https://github.com/rohanvkumarv/repo)
-3. 🗣 Commented on [#789](https://github.com/rohanvkumarv/repo/issues/789) in [rohanvkumarv/repo](https://github.com/rohanvkumarv/repo)
-<!--END_SECTION:activity-->
-
-</details>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/rohanvkumarv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/rohanvkumarv" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://rohanvkumarv.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<style>
+  /* Custom CSS for enhanced visual appeal */
+  img {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 255, 179, 0.2), 0 6px 20px 0 rgba(0, 255, 255, 0.19);
+  }
+  h2 {
+    text-shadow: 0 0 10px #00FFB3;
+  }
+</style>
