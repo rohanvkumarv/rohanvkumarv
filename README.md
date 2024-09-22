@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" width="100%" alt="Nyan Cat">
-</div>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there%2C+I'm+Rohan+%F0%9F%91%8B;Full+Stack+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" /></a>
 </h1>
@@ -104,50 +99,17 @@ Greetings, fellow explorer of the digital universe! I'm Rohan, a Full Stack Deve
 
 ## 📊 Stellar Stats
 
-<details>
-  <summary>🌠 GitHub Constellation</summary>
-  <br/>
-  <p align="center">
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=rohanvkumarv&show_icons=true&theme=radical" alt="Rohan's GitHub Stats" />
-    <br>
-    <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=rohanvkumarv&theme=radical" alt="Rohan's GitHub Streak" />
-  </p>
-</details>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohanvkumarv&show_icons=true&theme=dark" alt="Rohan's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rohanvkumarv&theme=dark" alt="Rohan's GitHub Streak" />
+</p>
 
-<details>
-  <summary>🌌 Programming Nebula</summary>
-  <br/>
-  <p align="center">
-    <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvkumarv&layout=compact&theme=radical" alt="Rohan's Top Languages" />
-  </p>
-</details>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvkumarv&layout=compact&theme=dark" alt="Rohan's Top Languages" />
+</p>
 
 ## 🌠 Recent Cosmic Activity
 
 ![Rohan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanvkumarv&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
-## 🏆 Intergalactic Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanvkumarv&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Rohan's GitHub Trophies" />
-</p>
-
-## 🌟 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/rohanvkumarv/repo-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohanvkumarv&repo=repo-1&theme=radical" />
-  </a>
-  <a href="https://github.com/rohanvkumarv/repo-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohanvkumarv&repo=repo-2&theme=radical" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
-
 <p align="center">🌍 Thanks for visiting my cosmic corner of GitHub! May your code be bug-free and your commits always push successfully! 🚀</p>
- 
